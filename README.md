@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Hi there 👋</h3>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> <h3 style="display: inline-block;">Hi there</h3>
     <h2>I'm OZ-DevONE!</h2>
     <img src="https://skillicons.dev/icons?i=py,cpp,js&perline=3" alt="My Skills" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
 </div>
@@ -27,7 +27,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=OZ-DevONE&theme=radical&column=7" alt="OZ-DevONE's GitHub Trophies">
 </div>
 
-<div align="center">
-    <h3>🔥 My GitHub Activity 🔥</h3>
-    <img src="https://activity-graph.herokuapp.com/graph?username=OZ-DevONE&theme=redical" alt="OZ-DevONE's GitHub Activity">
-</div>
+
