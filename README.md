@@ -1,8 +1,8 @@
-### Hi there 👋
-
-I'm OZ-DevONE!
-
-![My Skills](https://skillicons.dev/icons?i=py,cpp,js&perline=3)
+<div align="center">
+    <h3>Hi there 👋</h3>
+    <h2>I'm OZ-DevONE!</h2>
+    <img src="https://skillicons.dev/icons?i=py,cpp,js&perline=3" alt="My Skills" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+</div>
 
 - 🔭 I’m currently diving deep into the world of programming, crafting innovative solutions one line of code at a time.
 - 🌱 My skillset includes:
@@ -15,11 +15,9 @@ I'm OZ-DevONE!
 - 💼 Freelancing is my jam! Check out my profile on [profi.ru](https://profi.ru/profile/ZaynutdinovRR3/).
 - 📫 Feel free to reach out to me for collaborations, projects, or just a friendly chat!
 
-![OZ-DevONE's GitHub stats](https://github-readme-stats.vercel.app/api?username=OZ-DevONE&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OZ-DevONE&layout=compact&theme=radical)](https://github.com/OZ-DevONE)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OZ-DevONE&theme=radical)](https://github.com/OZ-DevONE)
-
-![](https://komarev.com/ghpvc/?username=OZ-DevONE&color=blueviolet)
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=OZ-DevONE&show_icons=true&theme=radical" alt="OZ-DevONE's GitHub stats" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OZ-DevONE&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OZ-DevONE&theme=radical" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+    <img src="https://komarev.com/ghpvc/?username=OZ-DevONE&color=blueviolet" alt="Profile Views">
+</div>
