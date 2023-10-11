@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(160deg, #8BC6EC, #9599E2); padding: 10px;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> 
     <h3 style="display: inline-block; color: white;">Hi there</h3>
     <h2 style="color: white;">I'm OZ-DevONE!</h2>
     <img src="https://skillicons.dev/icons?i=py,cpp,js&perline=3" alt="My Skills" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
@@ -26,8 +26,8 @@
         </td>
         <td>
             <div align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=OZ-DevONE&show_icons=true&theme=radical" alt="OZ-DevONE's GitHub stats" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OZ-DevONE&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+                <img src="https://github-readme-stats.vercel.app/api?username=OZ-DevONE&show_icons=true&theme=radical" alt="OZ-DevONE's GitHub stats" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);" width="950px;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OZ-DevONE&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); width: "950px;">
             </div>
         </td>
     </tr>
@@ -43,6 +43,6 @@
 <hr style="border: 1px solid #8BC6EC;">
 
 <div align="center">
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-    <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="40">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="160" style="animation: float 1s infinite alternate;">
+    <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="160" style="animation: float 1s infinite alternate;">
 </div>
