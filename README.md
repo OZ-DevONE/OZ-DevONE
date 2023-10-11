@@ -14,3 +14,12 @@ I'm OZ-DevONE!
 - 🤖 Though I don't often delve into it, I also have experience in crafting Discord bots.
 - 💼 Freelancing is my jam! Check out my profile on [profi.ru](https://profi.ru/profile/ZaynutdinovRR3/).
 - 📫 Feel free to reach out to me for collaborations, projects, or just a friendly chat!
+
+![OZ-DevONE's GitHub stats](https://github-readme-stats.vercel.app/api?username=OZ-DevONE&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OZ-DevONE&layout=compact&theme=radical)](https://github.com/OZ-DevONE)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OZ-DevONE&theme=radical)](https://github.com/OZ-DevONE)
+
+![](https://komarev.com/ghpvc/?username=OZ-DevONE&color=blueviolet)
+
