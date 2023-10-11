@@ -27,4 +27,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=OZ-DevONE&theme=radical&column=7" alt="OZ-DevONE's GitHub Trophies">
 </div>
 
+<div align="center">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+    <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="40">
+</div>
 
