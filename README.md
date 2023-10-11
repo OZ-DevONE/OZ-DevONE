@@ -21,3 +21,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=OZ-DevONE&theme=radical" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
     <img src="https://komarev.com/ghpvc/?username=OZ-DevONE&color=blueviolet" alt="Profile Views">
 </div>
+
+<div align="center">
+    <h3>🏆 My GitHub Trophies 🏆</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=OZ-DevONE&theme=radical&column=7" alt="OZ-DevONE's GitHub Trophies">
+</div>
+
+<div align="center">
+    <h3>🔥 My GitHub Activity 🔥</h3>
+    <img src="https://activity-graph.herokuapp.com/graph?username=OZ-DevONE&theme=redical" alt="OZ-DevONE's GitHub Activity">
+</div>
