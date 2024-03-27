@@ -20,7 +20,6 @@
                 <li>👯 I specialize in creating Telegram bots and various types of parsers. Additionally, I design desktop applications.</li>
                 <li>🛠️ The tools and libraries I frequently employ for my projects include <i>aiogram</i> for asynchronous telegram bots, <i>requests</i> for making HTTP requests, <i>selenium</i> for web automation, <i>bs4</i> (BeautifulSoup) for web scraping, and <i>qt</i> for GUI applications among others.</li>
                 <li>🤖 Though I don't often delve into it, I also have experience in crafting Discord bots.</li>
-                <li>💼 Freelancing is my jam! Check out my profile on <a href="https://profi.ru/profile/ZaynutdinovRR3/">profi.ru</a>.</li>
                 <li>📫 Feel free to reach out to me for collaborations, projects, or just a friendly chat!</li>
             </ul>
         </td>
